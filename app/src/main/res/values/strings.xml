@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyYoutube</string>
+
+    <string name="admob_sample_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="admob_sample_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+
+    <string name="admob_banner_1_app_id">ca-app-pub-1782138514865144~3023026031</string>
+    <string name="admob_banner_1_unit_id">ca-app-pub-1782138514865144/4144536019</string>
+</resources>
